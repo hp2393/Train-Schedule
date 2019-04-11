@@ -1,0 +1,19 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: 80%;
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace
+}
+.jumbotron {
+    color:black;
+    background-color: lightgray;
+}
+.panel-success>.panel-heading {
+    color: black;
+    background-color: beige;
+    border-color:coral;
+}
+
+#quote {
+    font-family: cursive
+}
